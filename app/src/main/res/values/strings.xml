@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My RandomNGame</string>
+    <string name="default1">xxx</string>
+    <string name="Startbutton">start</string>
+    <string name="startmessage">"Push Start to start game. Guess the number closest to AVG "</string>
+</resources>
